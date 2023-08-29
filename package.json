@@ -1,0 +1,23 @@
+{
+  "name": "my-helloword-latest-package",
+  "version": "1.0.0",
+  "description": "My first Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daxitoptimas/my-helloword-latest-package.git"
+  },
+  "keywords": [
+    "NPM",
+    "Test"
+  ],
+  "author": "Daxit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daxitoptimas/my-helloword-latest-package/issues"
+  },
+  "homepage": "https://github.com/daxitoptimas/my-helloword-latest-package#readme"
+}
